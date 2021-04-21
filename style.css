@@ -241,5 +241,8 @@ div.proto-btn:hover, .app-store.btn:hover, .google-play-btn:hover{
   .txt {
     width:auto;
   }
+  .brand-img {
+    margin-left: 20px;
+}
 }
 
